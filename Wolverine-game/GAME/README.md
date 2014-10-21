@@ -1,29 +1,26 @@
-melonJS boilerplate
+A 2D Game 
 -------------------------------------------------------------------------------
 
-features :
+Description :
+    This Game was developed using melonJS and the game environment used was created using Tiled Software.
+    It is a simple and endless adventure game with enemy characters added.
+    This is fully customisable and it can be used to create a new game different from the theme I have used.
+
+
+Features :
 - video autoscaling
 - mobile optimized HTML/CSS
 - swiping disabled on iOS devices
 - debug Panel (if #debug)
 - distribution build
 
-## To run distribution
 
-To build, be sure you have [node](http://nodejs.org) installed. Clone the project:
+## To run 
 
-    git clone https://github.com/melonjs/boilerplate.git
-
-Then in the cloned directory, simply run:
-
-    npm install
-
-To build:
-
-    grunt
+- Clone the git file.
+- Use Xampp or Wamp to run the index.html in a localhost.
 
 Note that you may have to edit the file `Gruntfile.js` if you need to better dictate the order your files load in. Note how by default the game.js and resources.js are specified in a specific order.
 
 -------------------------------------------------------------------------------
-Copyright (C) 2011 - 2013, Olivier Biot, Jason Oster
-melonJS is licensed under the [MIT License](http://www.opensource.org/licenses/mit-license.php)
+Copyright (C) 2011 - 2013, Sriram
